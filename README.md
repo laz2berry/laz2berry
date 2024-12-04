@@ -1,5 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=👋%20Welcome%20to%20my%20github!&fontSize=40&animation=fadeIn&fontAlignY=40" />
 
+## 📊 Github Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laz2berry)](https://github.com/laz2berry/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=laz2berry&show_icons=true&theme=radical)
 
 ## 🥞 My Tech Stack
 
