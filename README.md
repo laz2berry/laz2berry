@@ -7,10 +7,17 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laz2berry&show_icons=True&theme=radical&layout=donut&exclude_repo=PS,DataStructure,LuxuryProgramming)](https://github.com/laz2berry/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=laz2berry&show_icons=true&theme=radical)
 
-## PS
+## 🤖 PS
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=claudead777)](https://solved.ac/claudead777/)
+[![Codetree](https://banner.codetree.ai/v1/banner/laz2berry)](https://www.codetree.ai/profiles/laz2berry)
 
-## Projects
+## ☑️ Projects
+|제목|내용|설명|
+|------|---|---|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
 
 ## 🥞 My Tech Stack
 
