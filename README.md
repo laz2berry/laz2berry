@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=👋%20Welcome%20to%20my%20github!&fontSize=40&animation=fadeIn&fontAlignY=40" />
 </p>
 
-💬 Contact 
+✨ Hi! I'm Junhyeok Yun from South Korea 🇰🇷
+
+### 💬 Contact 
 
 <a href="https://www.linkedin.com/in/%EC%A4%80%ED%98%81-%EC%9C%A4-9981b02aa/">
   <img src="https://img.shields.io/badge/LinkedIN-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIN Badge"/>
@@ -10,9 +12,6 @@
 <a href="claudead777@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
-
-✨ Hi! I'm Junhyeok Yun from South Korea 🇰🇷
-
 
 ### 📊 Github Stats
 
