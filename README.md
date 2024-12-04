@@ -1,16 +1,27 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=👋%20Welcome%20to%20my%20github!&fontSize=40&animation=fadeIn&fontAlignY=40" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=👋%20Welcome%20to%20my%20github!&fontSize=40&animation=fadeIn&fontAlignY=40" />
+</p>
 
 ## Intro.
 
 
 ## 📊 Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laz2berry&show_icons=True&theme=radical&layout=donut&exclude_repo=PS,DataStructure,LuxuryProgramming)](https://github.com/laz2berry/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=laz2berry&show_icons=true&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laz2berry&show_icons=true&theme=radical&layout=donut&exclude_repo=PS,DataStructure,LuxuryProgramming&hide_border=true" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=laz2berry&show_icons=true&theme=radical&hide_border=true" height="200px"/>
+</p>
 
 ## 🤖 PS
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=claudead777)](https://solved.ac/claudead777/)
-[![Codetree](https://banner.codetree.ai/v1/banner/laz2berry)](https://www.codetree.ai/profiles/laz2berry)
+<p align="center">
+  <a href="https://solved.ac/claudead777/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=claudead777" alt="Solved.ac Profile" height="150px"/>
+  </a>
+  <a href="https://www.codetree.ai/profiles/laz2berry">
+    <img src="https://banner.codetree.ai/v1/banner/laz2berry" alt="Codetree Profile" height="150px"/>
+  </a>
+</p>
 
 ## ☑️ Projects
 |제목|내용|설명|
