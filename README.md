@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/%EC%A4%80%ED%98%81-%EC%9C%A4-9981b02aa/">
   <img src="https://img.shields.io/badge/LinkedIN-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIN Badge"/>
 </a>
-<a href="claudead777@gmail.com">
+<a href="mailto:claudead777@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
 
