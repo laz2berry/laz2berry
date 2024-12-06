@@ -24,11 +24,14 @@
 </p>
 
 ### ⛳ Projects
-|제목|내용|설명|
+
+|Repo|Desc|Date|
 |------|---|---|
 |테스트1|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
+
+Please refer to <a href=""><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white" alt="Portfolio Badge"/></a> for details
 
 ### 🥞 My Tech Stack
 
