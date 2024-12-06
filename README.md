@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=👋%20Welcome%20to%20my%20github!&fontSize=40&animation=fadeIn&fontAlignY=40" />
 </p>
 
-✨ Hi! I'm Junhyeok Yun from South Korea 🇰🇷
+✨ Hi! I'm Junhyeok Yun from South Korea
 
 ### 💬 Contact 
 
@@ -20,7 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=laz2berry&show_icons=true&theme=radical&hide_border=true" height="200px"/>
 </p>
 
-### 🤖 PS
+### 🏅 PS
 
 <p align="center">
   <a href="https://solved.ac/claudead777/">
@@ -31,7 +31,7 @@
   </a>
 </p>
 
-### ☑️ Projects
+### ⛳ Projects
 |제목|내용|설명|
 |------|---|---|
 |테스트1|테스트2|테스트3|
