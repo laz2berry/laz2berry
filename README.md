@@ -25,11 +25,13 @@
 
 ### ⛳ Projects
 
-|Repo|Desc|Date|
-|------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+|Name|Desc|Date|
+|---|---|---|
+|[⚖ 2024 INHA capstone](https://github.com/InhaCapstone2024/Open-Lawyer)|-|2024.09 - 2024.12|
+|🚢 HD Hyundai AIC Internship|-|2024.06 - 2024.08|
+|[🩻 SW Innovation Academy](https://github.com/laz2berry/BioViL_LoRA)|-|2023.09 - 2024.02|
+|[🚗 Advantech InnoWorks Project 2023](https://github.com/laz2berry/2023_Advantech_AIoT/tree/main)|-|2023.09 - 2023.11|
+|[🚢 HD Hyundai AI Challenge](https://github.com/laz2berry/HD_Hyundai_AI_Challenge)|-|2023.09 - 2023.11|
 
 Please refer to <a href=""><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white" alt="Portfolio Badge"/></a> for details
 
