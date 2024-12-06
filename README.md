@@ -6,12 +6,8 @@
 
 ### 💬 Contact 
 
-<a href="https://www.linkedin.com/in/%EC%A4%80%ED%98%81-%EC%9C%A4-9981b02aa/">
-  <img src="https://img.shields.io/badge/LinkedIN-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIN Badge"/>
-</a>
-<a href="mailto:claudead777@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a>
+<a href="https://www.linkedin.com/in/%EC%A4%80%ED%98%81-%EC%9C%A4-9981b02aa/"><img src="https://img.shields.io/badge/LinkedIN-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIN Badge"/></a>
+<a href="mailto:claudead777@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 
 ### 📊 Github Stats
 
@@ -23,12 +19,8 @@
 ### 🏅 PS
 
 <p align="center">
-  <a href="https://solved.ac/claudead777/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=claudead777" alt="Solved.ac Profile" height="150px"/>
-  </a>
-  <a href="https://www.codetree.ai/profiles/laz2berry">
-    <img src="https://banner.codetree.ai/v1/banner/laz2berry" alt="Codetree Profile" height="150px"/>
-  </a>
+  <a href="https://solved.ac/claudead777/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=claudead777" alt="Solved.ac Profile" height="150px"/></a>
+  <a href="https://www.codetree.ai/profiles/laz2berry"><img src="https://banner.codetree.ai/v1/banner/laz2berry" alt="Codetree Profile" height="150px"/></a>
 </p>
 
 ### ⛳ Projects
